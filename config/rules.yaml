@@ -1,0 +1,36 @@
+# Rule configuration for SHL assessment recommendations
+# Adjust weights/thresholds per business needs.
+
+job_level:
+  entry-level:
+    exclude_levels: []
+    weight: 1.0
+  entry to mid:
+    exclude_levels: []
+    weight: 0.9
+  mid-professional:
+    exclude_levels: []
+    weight: 0.8
+  all levels:
+    exclude_levels: []
+    weight: 0.7
+
+hiring_stage:
+  screening:
+    duration_penalty_threshold: 30
+    duration_penalty: -0.2
+  interview:
+    duration_penalty_threshold: 45
+    duration_penalty: -0.1
+
+skill_domains:
+  technical:
+    boost_categories: ["Individual Test Solutions", "Technical Skills"]
+    boost: 0.2
+  behavioral:
+    boost_categories: ["Pre-packaged Job Solutions", "Behavioral"]
+    boost: 0.2
+
+base_weights:
+  rule_pass: 1.0
+  rule_fail: -0.5

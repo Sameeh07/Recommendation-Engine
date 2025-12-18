@@ -1,0 +1,212 @@
+{
+"shl_product_catalog": {
+"metadata": {
+"source": "SHL Talent Assessments Catalog (refined)",
+"date_extracted": "2025-12-18",
+"total_products": 24,
+"note": "duration_minutes values marked as estimated when exact duration was not available"
+},
+"products": [
+{
+"assessment_name": "Account Manager Solution",
+"skills": "client communication, project coordination, account management, stakeholder management",
+"job_level": "Mid-Professional",
+"category": "Pre-packaged Job Solutions",
+"desc": "Assessment for mid-level roles managing client accounts; measures customer focus, planning and coordination.",
+"duration_minutes": 49
+},
+{
+"assessment_name": "Administrative Professional - Short Form",
+"skills": "administration, organisation, time management, attention to detail",
+"job_level": "Entry to Mid",
+"category": "Pre-packaged Job Solutions",
+"desc": "Short-form assessment for administrative professionals, focused on clerical and organisational skills.",
+"duration_minutes": 20
+},
+{
+"assessment_name": "Agency Manager Solution",
+"skills": "leadership, client relationship management, operations, commercial awareness",
+"job_level": "Mid-Professional",
+"category": "Pre-packaged Job Solutions",
+"desc": "Complete solution for agency management positions assessing management, client handling and operational skills.",
+"duration_minutes": 45
+},
+{
+"assessment_name": "Apprentice + 8.0 Job Focused Assessment",
+"skills": "basic technical skills, learning agility, following instructions, task completion",
+"job_level": "Entry-Level",
+"category": "Pre-packaged Job Solutions",
+"desc": "Enhanced job-focused assessment for apprentice roles, targeting practical skills and workplace behaviours.",
+"duration_minutes": 20
+},
+{
+"assessment_name": "Apprentice 8.0 Job Focused Assessment",
+"skills": "basic technical skills, task focus, learning aptitude",
+"job_level": "Entry-Level",
+"category": "Pre-packaged Job Solutions",
+"desc": "Standard job-focused assessment for apprentices evaluating foundational job skills and behaviours.",
+"duration_minutes": 20
+},
+{
+"assessment_name": "Bank Administrative Assistant - Short Form",
+"skills": "clerical accuracy, data entry, attention to detail, basic banking processes",
+"job_level": "Entry-Level",
+"category": "Pre-packaged Job Solutions",
+"desc": "Short-form assessment for administrative roles in banking, focused on accuracy and process knowledge.",
+"duration_minutes": 15
+},
+{
+"assessment_name": "Bank Collections Agent - Short Form",
+"skills": "customer negotiation, communication, compliance, resilience",
+"job_level": "Entry-Level",
+"category": "Pre-packaged Job Solutions",
+"desc": "Short-form assessment for collections roles, assessing communication, persuasion and regulatory awareness.",
+"duration_minutes": 15
+},
+{
+"assessment_name": "Bank Operations Supervisor - Short Form",
+"skills": "supervision, process management, compliance, decision making",
+"job_level": "Mid-Professional",
+"category": "Pre-packaged Job Solutions",
+"desc": "Supervisory assessment for bank operations roles, focusing on leadership and operational control.",
+"duration_minutes": 30
+},
+{
+"assessment_name": "Bilingual Spanish Reservation Agent Solution",
+"skills": "bilingual communication (Spanish/English), customer service, booking systems knowledge",
+"job_level": "Entry to Mid",
+"category": "Pre-packaged Job Solutions",
+"desc": "Specialized assessment for bilingual reservation agents assessing language ability and service orientation.",
+"duration_minutes": 25
+},
+{
+"assessment_name": "Bookkeeping, Accounting, Auditing Clerk - Short Form",
+"skills": "bookkeeping, numerical accuracy, reconciliation, attention to detail",
+"job_level": "Entry-Level",
+"category": "Pre-packaged Job Solutions",
+"desc": "Short-form assessment for bookkeeping and accounting clerks focused on numerical and process skills.",
+"duration_minutes": 20
+},
+{
+"assessment_name": "Branch Manager - Short Form",
+"skills": "leadership, commercial acumen, customer service, people management",
+"job_level": "Mid-Professional",
+"category": "Pre-packaged Job Solutions",
+"desc": "Short-form assessment for branch manager roles assessing leadership, operations and commercial skills.",
+"duration_minutes": 30
+},
+{
+"assessment_name": "Cashier Solution",
+"skills": "transaction handling, customer service, accuracy, basic numeracy",
+"job_level": "Entry-Level",
+"category": "Pre-packaged Job Solutions",
+"desc": "Assessment for cashier positions focusing on speed, accuracy and customer interaction.",
+"duration_minutes": 15
+},
+{
+"assessment_name": "Global Skills Development Report",
+"skills": "broad workplace competencies, development needs analysis, behavioural insights",
+"job_level": "All levels",
+"category": "Individual Test Solutions",
+"desc": "Comprehensive reporting tool that profiles multiple workplace skills and supports development planning.",
+"duration_minutes": 16
+},
+{
+"assessment_name": ".NET Framework 4.5",
+"skills": ".NET framework, C# fundamentals, runtime and libraries",
+"job_level": "Mid-Professional",
+"category": "Individual Test Solutions",
+"desc": "Technical assessment covering knowledge of the .NET Framework 4.5 and related development concepts.",
+"duration_minutes": 20
+},
+{
+"assessment_name": ".NET MVC (New)",
+"skills": "MVC architecture, web application patterns, routing and controllers",
+"job_level": "Mid-Professional",
+"category": "Individual Test Solutions",
+"desc": "Updated technical skills test for MVC web development concepts and best practices.",
+"duration_minutes": 15
+},
+{
+"assessment_name": ".NET MVVM (New)",
+"skills": "MVVM pattern, data binding, UI architecture",
+"job_level": "Mid-Professional",
+"category": "Individual Test Solutions",
+"desc": "Assessment focused on MVVM design pattern and related UI development skills for .NET.",
+"duration_minutes": 15
+},
+{
+"assessment_name": ".NET WCF (New)",
+"skills": "WCF services, service contracts, bindings and serialization",
+"job_level": "Mid-Professional",
+"category": "Individual Test Solutions",
+"desc": "Updated assessment covering Windows Communication Foundation service concepts and implementation.",
+"duration_minutes": 15
+},
+{
+"assessment_name": ".NET WPF (New)",
+"skills": "WPF development, XAML, UI design patterns",
+"job_level": "Mid-Professional",
+"category": "Individual Test Solutions",
+"desc": "Skills assessment for WPF desktop application development and XAML usage.",
+"duration_minutes": 15
+},
+{
+"assessment_name": ".NET XAML (New)",
+"skills": "XAML markup, UI layout, control templating",
+"job_level": "Mid-Professional",
+"category": "Individual Test Solutions",
+"desc": "Test of XAML knowledge and UI markup skills used in .NET application development.",
+"duration_minutes": 15
+},
+{
+"assessment_name": "Accounts Payable (New)",
+"skills": "invoice processing, payment workflows, reconciliation",
+"job_level": "Entry-Level",
+"category": "Individual Test Solutions",
+"desc": "Knowledge assessment covering accounts payable processes and related transaction handling.",
+"duration_minutes": 20
+},
+{
+"assessment_name": "Accounts Payable Simulation (New)",
+"skills": "accounts payable processes, simulation tasks, process accuracy",
+"job_level": "Entry-Level",
+"category": "Individual Test Solutions",
+"desc": "Simulation-based assessment that mimics accounts payable workflows and decision points.",
+"duration_minutes": 30
+},
+{
+"assessment_name": "Accounts Receivable (New)",
+"skills": "invoice management, collections, reconciliation, customer billing",
+"job_level": "Entry-Level",
+"category": "Individual Test Solutions",
+"desc": "Knowledge assessment focused on accounts receivable tasks and processes.",
+"duration_minutes": 20
+},
+{
+"assessment_name": "Accounts Receivable Simulation (New)",
+"skills": "accounts receivable simulation, dispute handling, collections process",
+"job_level": "Entry-Level",
+"category": "Individual Test Solutions",
+"desc": "Simulation-based test for accounts receivable which evaluates applied process skills.",
+"duration_minutes": 30
+},
+{
+"assessment_name": "ADO.NET (New)",
+"skills": "ADO.NET, data access, SQL integration, connection management",
+"job_level": "Mid-Professional",
+"category": "Individual Test Solutions",
+"desc": "Updated assessment for ADO.NET data access patterns and related programming concepts.",
+"duration_minutes": 15
+}
+],
+"training_ready_fields": [
+"assessment_name",
+"skills",
+"job_level",
+"category",
+"desc",
+"duration_minutes"
+]
+}
+}
